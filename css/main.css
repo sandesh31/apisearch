@@ -1,0 +1,36 @@
+.result{
+  position:fixed;
+  z-index: 100;  
+  top:50%;  
+  left:50%;  
+  margin:-100px 0 0 -100px;  
+  width:360px;  
+  height:460px; 
+}
+.submit{color:black;}
+.search{text-align: center;}
+.main{text-align: center;color: white; }
+.city{font-family: fantasy;
+font-size: 76px;}
+.country{font-family: fantasy;}
+.temp, .t{font-weight: 700;
+font-size: 72px;}
+.temp-high{font-weight: bold;}
+.temp-low{font-weight: bold;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
